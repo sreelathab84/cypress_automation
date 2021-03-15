@@ -1,3 +1,10 @@
+Automation : 
+Addeded envrionment file.
+login.js under integration file have all the test cases related to login
+
+Excution command : npm run cy:run:chrome
+
+
 Login  Test :
 
 Feature : Login
